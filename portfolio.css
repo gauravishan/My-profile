@@ -1,0 +1,108 @@
+.navbar-brand{
+    margin-right: 950px !important;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navbar{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.2rem;
+    padding: 20px 0;
+}
+/* BACKGROUND START */
+#wrapper{
+    width: 100%;
+}
+.heading-content{
+    position: absolute;
+    top: 80%;
+    width: 100%;
+    /* max-width: 100%; */
+}
+.heading-content h5{
+    font-size: 3em;
+    font-weight: 300;
+    color: white;
+    font-family: monospace;
+}
+.heading-content h1{
+    font-size: 5em;
+    font-weight: bold;
+    color: white;
+    font-family: monospace;
+}
+.heading-content p{
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: lighter;
+    color: #ccc;;
+    font-family: sans-serif;
+}
+/* BACKGROUND END */
+/* ABOUT START */
+.post-heading{
+    text-align: center;
+    margin-top: 10px;
+}
+#bb{
+    font-weight: bold;
+}
+.wanna{
+    text-align: center;
+}
+#know{
+    border: 2px solid ;
+    width: 40%;
+    padding: 15px 22px;
+    background: black;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#know a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#know a:hover{
+    border: 2px solid gray;
+    cursor: pointer;
+}
+#gaurav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* ABOUT END */
+/* PROJECTS START */
+
+
+
+
+/* PROJECTS END */
+/* CONTACT START */
+.mm{
+    margin-bottom: 50px;
+    padding-bottom: 5px;
+}
+#mm{
+    padding-bottom: 5rem;
+}
+.icon{
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    color: gray;
+}
+#fav{
+    margin-left: 50px;
+    color: gray;
+}
+
+/* CONTACT END */
